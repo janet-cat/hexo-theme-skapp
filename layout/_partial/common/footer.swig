@@ -24,6 +24,7 @@
             {% if img %}
                 <div class="footer-top__item footer__image">
                     <img src="{{ img }}" alt="logo" title="{{ get_setting('title') }}">
+                    <p class="text">我的微信</p>
                 </div>
             {% endif %}
             
@@ -48,10 +49,10 @@
     </section>
     <section class="footer__bottom">
         <div class="page__container footer__container">
-            <p class="footer__copyright">©
-                <a href="https://github.com/Mrminfive/hexo-theme-skapp" target="_blank">Skapp</a> 2017 powered by
+            <p class="footer__copyright">©Copyright&nbsp;&nbsp;
+                2018 powered by
                 <a href="http://hexo.io/" target="_blank">Hexo</a>, made by 
-                <a href="https://github.com/Mrminfive" target="_blank">minfive</a>.
+                <a href="https://github.com/Willworkgogogo" target="_blank">Will</a>.
             </p>
             <ul class="footer__social-network clearfix">
                 {% if site.data.contact %}
