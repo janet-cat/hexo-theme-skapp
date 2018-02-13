@@ -8,7 +8,7 @@ description: 日常学习与兴趣交流的个人博客
 introduction: 哎呦，不错哦！
 favicon_ico: http://image.yalingmai.cn/favicon.ico
 logo: http://image.yalingmai.cn/logo.png
-qrcode: http://oo12ugek5.bkt.clouddn.com/images/qrcode.png
+qrcode:
 default_cover: http://oo12ugek5.bkt.clouddn.com/images/default_cover.png
 header_cover: http://oo12ugek5.bkt.clouddn.com/blog/images/banner.jpeg
 error_page_bg: http://oo12ugek5.bkt.clouddn.com/blog/images/dogs.jpg
