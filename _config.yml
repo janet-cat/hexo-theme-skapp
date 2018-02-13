@@ -2,7 +2,7 @@
 # Site
 title: WILL'S BLOG
 subtitle: WILL'S BLOG
-subtitle_desc: 记录、学习、成长
+subtitle_desc: TRAVEL ON THE ROAD, THE ROAD, ROAD...
 keywords: Will, Will blog, 前端博客, 前端, 程序员, 前端开发, 全栈开发, node.js, javascript
 description: 日常学习与兴趣交流的个人博客
 introduction: 哎呦，不错哦！
@@ -13,7 +13,7 @@ default_cover: http://oo12ugek5.bkt.clouddn.com/images/default_cover.png
 header_cover: http://oo12ugek5.bkt.clouddn.com/blog/images/banner.jpeg
 error_page_bg: http://oo12ugek5.bkt.clouddn.com/blog/images/dogs.jpg
 author:
-  name: Will
+  nick: Will
   link: https://github.com/Willworkgogogo
 about:
   info: 本站是基于 Hexo 搭建的静态博客，主要用于分享日常学习、生活及工作的一些心得总结。
@@ -25,7 +25,7 @@ menu:
   home: / 
   archive: /archives
   works: /demo
-  music: /music
+  #music: /music
   about: /about
 
 highlight_theme: normal
@@ -34,3 +34,7 @@ loader_img: http://oo12ugek5.bkt.clouddn.com/blog/images/loader.gif
 
 # 百度统计
 baidu_statistic: 43801fd5fd36825a81964beb18e12f02
+
+# 看板娘
+live2d:
+  model: nipsilon  

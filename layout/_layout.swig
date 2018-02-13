@@ -48,5 +48,8 @@
 
     {% block other %}
     {% endblock %}
+
+    <!-- live 2d -->
+    {{ live2d() }}
 </body>
 </html>
