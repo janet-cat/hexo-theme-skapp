@@ -38,7 +38,7 @@
             <div class="mark__block">
                 <i class="mark__icon iconfont icon-eye"></i>
                 <ul class="mark__list clearfix">
-                    <li id="busuanzi_container_page_pv" class="mark__item"><span id="busuanzi_value_page_pv"></span>{{ __('other.bout') }}</li>
+                    <li id="busuanzi_container_page_pv" class="mark__item"><span id="busuanzi_value_page_pv"></span><span> {{ __('other.bout') }}</span></li>
                 </ul>
             </div>
             {% endif %}
